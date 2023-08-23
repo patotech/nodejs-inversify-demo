@@ -1,0 +1,16 @@
+
+application/node_modules/
+application/module/
+application/package-lock.json
+component-log/node_modules/
+component-log/module/
+component-log/package-lock.json
+dominio/node_modules/
+dominio/module/
+dominio/package-lock.json
+local-runner/node_modules/
+local-runner/module/
+local-runner/package-lock.json
+serverless/node_modules/
+serverless/module/
+serverless/package-lock.json

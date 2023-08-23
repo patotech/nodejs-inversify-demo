@@ -1,0 +1,21 @@
+{
+  "name": "baaskit-demo-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module/index.js",
+  "types": "module/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc --noImplicitReturns --noFallthroughCasesInSwitch --strict --noUnusedLocals"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  }  
+}
